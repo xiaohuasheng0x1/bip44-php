@@ -1,5 +1,6 @@
 {
   "name": "xiaohuasheng0x1/bip44-php",
+  "version": "1.0.0"
   "autoload": {
     "psr-0" : {
       "BIP\\" : "src"
